@@ -1,4 +1,4 @@
-$(document).ready(function() {   
+jQuery(document).ready(function() {   
   var vizjson_url = "http://team.cartodb.com/api/v2/viz/9f130ef2-6371-11e4-a0fd-0e9d821ea90d/viz.json";    
   cartodb.createVis("map", vizjson_url, {
     share: true,
