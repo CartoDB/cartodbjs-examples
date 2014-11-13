@@ -4,7 +4,6 @@ description: If you want to use GMaps as provider although you have Leaflet set 
 authors:
   - CartoDB
 resources:
-  - http://libs.cartocdn.com/cartodb.js/v3/3.11.24/themes/css/cartodb.css
 normalize_css: no
 lang_css: CSS
 ...
