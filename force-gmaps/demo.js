@@ -1,0 +1,1 @@
+// JS code in in HTML block due to a JSFiddle bug
